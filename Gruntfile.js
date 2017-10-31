@@ -6,6 +6,7 @@
  * grunt bump-commit
  * git push --tags
  * npm publish
+ * test
  */
 module.exports = function(grunt) {
 
